@@ -3,4 +3,4 @@
 
 # Demo
 
-<img height="180em" src="https://raw.githubusercontent.com/natanoliveira/knockout-games/main/demo.png"/>
+<img width="70%" src="https://raw.githubusercontent.com/natanoliveira/knockout-games/main/demo.png"/>
